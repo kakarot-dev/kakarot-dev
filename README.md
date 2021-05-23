@@ -35,6 +35,14 @@ me()
 
 <table>
   <tbody>
+    <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮Script</span><br><br><br>
+        <img height="64px" src="https://cdn.discordapp.com/attachments/831552576180322305/846013333799043132/bZRoAAAAAElFTkSuQmCC.png">
+      </td>
+     <td width="25%" align="center">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://cdn.discordapp.com/attachments/831552576180322305/846015146304208957/images.png">
+      </td>
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
