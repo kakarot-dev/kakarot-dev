@@ -1,5 +1,6 @@
-# Hello, Im Ethan!
+# Hello, Im Kakarot!
 
+**Known As Lava in Discord**
 - I am a high School programmer
 - Ive benn coding in the discord api using js
 - Im dumb too
@@ -15,7 +16,7 @@ interface aboutMe {
 }
 
 main :: func(): void {
-  ethan :: aboutMe = {
+  kakarot :: aboutMe = {
     pronouns: ["He", "Him"],
     languages: ["C", "C#", "Java", "Python"],
     hobbies: ["Coding", "Gaming", "Talking"],
