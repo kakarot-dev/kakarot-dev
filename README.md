@@ -27,8 +27,8 @@ async function me(): void {
   FunFact: ${kakarot.funFact}
   `)
   }
-me()
 }
+me()
 ```
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
