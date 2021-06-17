@@ -1,6 +1,6 @@
-# Hello, Im Kakarot!
+# Hello, Im Kakarot-Dev!
 
-**Known As Lava in Discord**
+**Known As Kakarot or Lava in Discord**
 - I am a high School programmer
 - Ive benn coding in the discord api using js
 - Im dumb too
