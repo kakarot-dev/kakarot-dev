@@ -4,6 +4,7 @@
 - I am a high School programmer
 - Ive benn coding in the discord api using js
 - Im dumb too
+- Working to Make mai's music module more compatible and a useless founder of Shunka
 
 ```ts
 interface aboutMe {
