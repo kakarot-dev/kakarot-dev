@@ -1,10 +1,10 @@
 # Hello, Im Kakarot-Dev!
 
-**Known As Kakarot or Lava in Discord**
+**Known As Kakarot in Discord**
 - I am a high School programmer
 - Ive benn coding in the discord api using js
 - Im dumb too
-- Working to Make mai's music module more compatible and a useless founder of Shunka
+- Working to Make mai's music module more compatible and a useless founder of Shuizu
 
 ```ts
 interface aboutMe {
@@ -81,6 +81,6 @@ Shunka's Support discord (A place to have fun)
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [Shunka A Discord Bot](https://voidbots.net/bot/831523779229253704/invite)
+- 💻 [Shizu A Discord Bot](https://voidbots.net/bot/831523779229253704/invite)
 ![Stats](https://voidbots.net/api/embed/831523779229253704?theme=dark)
 
