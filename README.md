@@ -1,5 +1,13 @@
 # Hello, Im Kakarot-Dev!
+<p align="centre">
+  <a href="#">
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kakarot-dev&repo=github-visitors-badge&countColor=%237B1E7A">
+   </a>
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
+</p>
 **Known As Kakarot in Discord**
 - I am a high School programmer
 - Ive benn coding in the discord api using js
