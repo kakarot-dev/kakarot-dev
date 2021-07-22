@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
 </p>
+
 **Known As Kakarot in Discord**
 - I am a high School programmer
 - Ive benn coding in the discord api using js
