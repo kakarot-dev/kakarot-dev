@@ -35,3 +35,4 @@
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=maisans-maid&repo=mai)](https://github.com/maisans-maid/Mai)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=discordoo&repo=discordoo)](https://github.com/discordoo/discordoo)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Deivu&repo=shoukaku)](https://github.com/Deivu/Shoukaku)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=JSH32&repo=backpack)](https://github.com/JSH32/Backpack)
