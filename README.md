@@ -8,6 +8,12 @@
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
 </p> -->
+<div align="left">
+<a href="https://app.daily.dev/axeldoesdev">
+  <img width="256" align="right" src="https://github.com/kakarot-dev/kakarot-dev/blob/main/devcard.svg" alt="Axel's Dev Card"/>
+  </a>
+</div>
+
 
 **Known As Axel in Discord**
 - 🏫 I am a high School programmer
