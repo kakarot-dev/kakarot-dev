@@ -1,7 +1,7 @@
 
 <div align="left">
 <a href="https://app.daily.dev/axeldoesdev">
-  <img width="256" align="right" src="https://github.com/kakarot-dev/kakarot-dev/blob/main/devcard.svg" alt="Axel's Dev Card"/>
+  <img width=200" align="right" src="https://github.com/kakarot-dev/kakarot-dev/blob/main/devcard.svg" alt="Axel's Dev Card"/>
   </a>
 </div>
 
@@ -11,6 +11,7 @@
 - 🚀 I revolve mostly around discord's and github's api 
 - 📺 Watches anime a lot
 - 👩‍💻 Developer at [Mai bot](https://github.com/mai-bot) and staff at [inphect](https://inphect.gg)
+
 
 # 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Typescript,Rust,Javascript,Go)](https://github.com/kakarot-dev)
