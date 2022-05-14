@@ -1,13 +1,4 @@
-# Hello, Im Kakarot-Dev!
-<!-- <p align="centre">
-  <a href="#">
-      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kakarot-dev&repo=github-visitors-badge&countColor=%237B1E7A">
-   </a>
-</p> -->
 
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
-</p> -->
 <div align="left">
 <a href="https://app.daily.dev/axeldoesdev">
   <img width="256" align="right" src="https://github.com/kakarot-dev/kakarot-dev/blob/main/devcard.svg" alt="Axel's Dev Card"/>
@@ -15,7 +6,7 @@
 </div>
 
 
-**Known As Axel in Discord**
+## Yo, I'm Axel
 - 🏫 I am a high School programmer
 - 🚀 I revolve mostly around discord's and github's api 
 - 📺 Watches anime a lot
