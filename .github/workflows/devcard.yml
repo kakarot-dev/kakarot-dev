@@ -22,4 +22,4 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
-          commit_filename: /cards/${{ steps.date.outputs.date }}.svg
+          commit_filename: ./cards/${{ steps.date.outputs.date }}.svg
