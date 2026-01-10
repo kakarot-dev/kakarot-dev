@@ -17,7 +17,7 @@ I’m less interested in frameworks and more interested in how things work under
 ---
 
 ### Currently Working on
-Currently architecting Aether, a self-hosted cloud platform using Rust & Firecracker. I enjoy bridging the gap between low-level systems (Linux/KVM) and high-level product engineering (TypeScript/React)
+- Currently architecting Aether, a self-hosted cloud platform using Rust & Firecracker. I enjoy bridging the gap between low-level systems (Linux/KVM) and high-level product engineering (TypeScript/React)
 ---
 
 ### Selected projects
